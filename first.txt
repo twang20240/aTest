@@ -1,3 +1,4 @@
 first commitgit
 ls
 ahead 1
+ahead 2
