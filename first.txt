@@ -1,1 +1,3 @@
-first commit
+first commitgit
+ls
+ahead 1
